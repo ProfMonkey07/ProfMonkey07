@@ -5,4 +5,4 @@
 - 📫 How to reach me: ProfMonkey07#0319, my discord
 
 stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ProfMonkey07&theme=dark&background=000000)](https://git.io/streak-stats)

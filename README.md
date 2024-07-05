@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ProfMonkey07
-- 👀 I’m interested in rust, open source, machine learning, and blockchain
-- 🌱 I’m currently learning the anchor framework for solana, cadence for flow, and I want to learn about machine learning
+- 👀 I’m interested in FP, open source, machine learning
+- 🌱 I’m currently learning ocaml, and I want to learn about machine learning
 - 💞️ I’m looking to find a project to collaborate on or contribute to
 - 📫 How to reach me: ProfMonkey07#0319, my discord
 
